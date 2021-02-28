@@ -2,11 +2,6 @@
 	
 ![Image Preview](/imageRD/fina.png)
 	
-## Avvertenze
-	
-Su Opera non si garantisce il corretto funzionamento del puntatore del mouse.
-Su chrome e firefox si garantisce il funzionamento del puntatore del mouse se gli fps sono maggiori di 15.
-
 ## Report
 
 Il progetto ripropone il gestore del mondo di populous semplificato in chiave voxel con alcune capacità divine, quali il terremoto, lo tzunami e la meteorite. Vi è inoltre la presenza di un Camminatore Errante, immortale, e incapace di nuotare, difatto quando dovesse cadere in acqua profonda si trasporterebbe magicamente da un altra parte.
