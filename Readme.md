@@ -49,6 +49,8 @@ Il progetto consiste in una web-app risiedente su un server Apache. Composta da 
 
 
 ### Marker
+
+|    |    |     |
 | --- | --- | --- |
 | ![Image A](/imageRD/letterA.png) | ![Image B](/imageRD/letterB.png) | ![Image C](/imageRD/letterC.png) |
 | ![Image G](/imageRD/letterG.png) | ![Image R](/imageRD/letterR.png) | ![Image PLUS](/imageRD/letterPLUS.png) |
